@@ -1,4 +1,4 @@
-0x11. C - printf team project
+0x11. C - ALX SE printf team project by Oluwaseyi Ajaja and Oluwabamise Omolaso
 
 Group Project:                                                                      
                                                                                     
